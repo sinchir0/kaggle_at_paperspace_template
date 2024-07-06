@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,4 +171,6 @@ wheels/
 
 # venv
 .venv
->>>>>>> 880e961 (add)
+
+trained_model/
+data/
